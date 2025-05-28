@@ -7,7 +7,7 @@ import requests
 
 app = FastAPI()
 
-API_KEY = "9bd69bb316dbb0f7d7f9191a596f933e"
+API_KEY = "OpenWeathermap API Key"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
