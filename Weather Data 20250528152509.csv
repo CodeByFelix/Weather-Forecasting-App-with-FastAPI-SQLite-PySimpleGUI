@@ -1,0 +1,26 @@
+timestamp,city,country,description,temp,humidity,pressure,wind,long,lat
+123455,Oba,NG,cloud,32.2,70,23,23.2,34.3,32.2
+1748434665,Oko,NG,broken clouds,31.49,66,1013,1.2,5.5938,6.2995
+1748434686,Awka,NG,overcast clouds,32.01,61,1013,0.58,7.0741,6.2101
+1748437869,Lagos,NG,overcast clouds,32.16,57,1012,3.36,3.75,6.5833
+1748437869,Lagos,NG,overcast clouds,32.16,57,1012,3.36,3.75,6.5833
+1748438621,Lagos,NG,overcast clouds,32.16,57,1012,3.36,3.75,6.5833
+1748438621,Lagos,NG,overcast clouds,32.16,57,1012,3.36,3.75,6.5833
+1748438621,Lagos,NG,overcast clouds,32.16,57,1012,3.36,3.75,6.5833
+1748438621,Lagos,NG,overcast clouds,32.16,57,1012,3.36,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439636,Oba,NG,light rain,32.16,52,1011,2.01,5.725,7.373
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439648,Agulu,NG,broken clouds,32.1,57,1011,1.76,7.0724,6.11
+1748439636,Oba,NG,light rain,32.16,52,1011,2.01,5.725,7.373
+1748439367,Lagos,NG,light rain,31.6,59,1012,3.6,3.75,6.5833
+1748439636,Oba,NG,light rain,32.16,52,1011,2.01,5.725,7.373
+1748439648,Agulu,NG,broken clouds,32.1,57,1011,1.76,7.0724,6.11
+1748439503,Lagos,NG,overcast clouds,31.6,59,1012,3.6,3.75,6.5833
+1748440154,Oba,NG,broken clouds,32.16,52,1011,2.01,5.725,7.373
