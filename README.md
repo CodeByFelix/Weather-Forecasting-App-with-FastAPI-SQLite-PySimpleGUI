@@ -14,27 +14,7 @@ A complete **Weather Forecasting Application** built using **FastAPI (Backend)**
 - 🧾 Download weather data for external use
 - 🧩 Simple and interactive GUI using PySimpleGUI
 
----
 
-## 🗂️ Project Structure
-
-Root/
-├── Backend/
-│ ├── main.py # FastAPI backend with endpoints
-│ └── database.py # SQLite3 database logic
-│
-├── Frontend/
-│ └── UI.py # PySimpleGUI user interface
-│
-├── weather.db # SQLite database file (auto-created)
-├── README.md # Project description
-└── requirements.txt # Python dependencies
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started
 
