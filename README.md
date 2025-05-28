@@ -43,39 +43,33 @@ Edit
 ```bash
 git clone https://github.com/yourusername/weather-forecast-app.git
 cd weather-forecast-app
-2. Create a virtual environment (optional but recommended)
-bash
-Copy
-Edit
+```
+### 2. Create a virtual environment (optional but recommended)
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-3. Install dependencies
-bash
-Copy
-Edit
+```
+### 3. Install dependencies
+```bash
 pip install -r requirements.txt
-4. Start the backend server
-bash
-Copy
-Edit
+```
+### 4. Start the backend server
+```bash
 cd Backend
 uvicorn main:app --reload
+```
 Make sure main.py is in the same directory where you run the command.
 
-5. Launch the frontend
+```5. Launch the frontend
 bash
-Copy
-Edit
 cd ../Frontend
 python UI.py
-🔑 Configuration
+```
+## 🔑 Configuration
 This project uses the OpenWeatherMap API. Replace the API_KEY in main.py with your own key from:
-
 🔗 https://openweathermap.org/api
 
-python
-Copy
-Edit
+```python
 API_KEY = "your_api_key_here"
 📥 Sample API Endpoints (FastAPI)
 GET /weather/city/{city} → Get live weather and store in DB
@@ -85,14 +79,11 @@ GET /weather/timestamp/{timestamp} → Fetch weather by timestamp
 GET /weather/data → Get all stored records
 
 DELETE /weather/delete/{timestamp} → Delete a record
+```
 
-🛠️ Built With
+### 🛠️ Built With
 FastAPI
-
 SQLite3
-
 PySimpleGUI
-
 Requests
-
 OpenWeatherMap API
